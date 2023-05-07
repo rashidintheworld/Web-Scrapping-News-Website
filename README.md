@@ -1,0 +1,3 @@
+This project aims to do web scraping from news sites using BeautifulSoup4 and requests libraries in Python. The code sends a request to the specified news site, receives the HTML page and analyzes it with the BeautifulSoup library. It then uses functions to extract and store the desired information. This method can be used to collect data from regularly updated news sites.
+
+This project can be useful for students, researchers or developers who want to learn how to use web scraping techniques and automate the data collection process.
