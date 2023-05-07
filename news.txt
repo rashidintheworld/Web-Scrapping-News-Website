@@ -1,0 +1,2 @@
+- BU file ni pycharm ile isledin ki xeberleri bura yazdirmasini kodda qeyd etmisem.
+- BU metn bos file ni save etmek olmur ona gore yazilmisdir sonradan siline biler.
